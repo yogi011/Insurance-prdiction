@@ -1,0 +1,10 @@
+Problem Statements-
+
+In this notebook, I will analyze a health insurance company's data to predict future insurance claim amounts and identify factors that lead to higher healthcare costs. The insurance dataset consists of 1,338 policyholders with 7 attributes that describe their health and demographic information, including their age, gender, BMI, and smoking status. The variable we would like to predict is the total claim amount, charges, that were billed to the insurance company. To provide a more targeted cost prediction, I will build a model for each of the four regions where the company's policyholders reside in: the Southwest, Southeast, Northwest, and Northeast regions.
+
+Data Overview-
+There are 1,338 observations and 7 columns in the data set.
+There are 0 missing values in the data.
+
+Conclusion:-
+In this project i found that smoker colum is higly dependent on the charges.If the person does smoking than there insurance chrge is high.
